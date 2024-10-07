@@ -1,0 +1,14 @@
+C:\Users\PROPRIETARIO\Desktop\temi estvi ita\Televisore1\Televisore1\bin\Debug\net6.0\Televisore1.exe
+C:\Users\PROPRIETARIO\Desktop\temi estvi ita\Televisore1\Televisore1\bin\Debug\net6.0\Televisore1.deps.json
+C:\Users\PROPRIETARIO\Desktop\temi estvi ita\Televisore1\Televisore1\bin\Debug\net6.0\Televisore1.runtimeconfig.json
+C:\Users\PROPRIETARIO\Desktop\temi estvi ita\Televisore1\Televisore1\bin\Debug\net6.0\Televisore1.dll
+C:\Users\PROPRIETARIO\Desktop\temi estvi ita\Televisore1\Televisore1\bin\Debug\net6.0\Televisore1.pdb
+C:\Users\PROPRIETARIO\Desktop\temi estvi ita\Televisore1\Televisore1\obj\Debug\net6.0\Televisore1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PROPRIETARIO\Desktop\temi estvi ita\Televisore1\Televisore1\obj\Debug\net6.0\Televisore1.AssemblyInfoInputs.cache
+C:\Users\PROPRIETARIO\Desktop\temi estvi ita\Televisore1\Televisore1\obj\Debug\net6.0\Televisore1.AssemblyInfo.cs
+C:\Users\PROPRIETARIO\Desktop\temi estvi ita\Televisore1\Televisore1\obj\Debug\net6.0\Televisore1.csproj.CoreCompileInputs.cache
+C:\Users\PROPRIETARIO\Desktop\temi estvi ita\Televisore1\Televisore1\obj\Debug\net6.0\Televisore1.dll
+C:\Users\PROPRIETARIO\Desktop\temi estvi ita\Televisore1\Televisore1\obj\Debug\net6.0\refint\Televisore1.dll
+C:\Users\PROPRIETARIO\Desktop\temi estvi ita\Televisore1\Televisore1\obj\Debug\net6.0\Televisore1.pdb
+C:\Users\PROPRIETARIO\Desktop\temi estvi ita\Televisore1\Televisore1\obj\Debug\net6.0\Televisore1.genruntimeconfig.cache
+C:\Users\PROPRIETARIO\Desktop\temi estvi ita\Televisore1\Televisore1\obj\Debug\net6.0\ref\Televisore1.dll
